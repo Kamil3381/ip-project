@@ -1,0 +1,65 @@
+body{
+
+	font-family: Arial;
+	color: rgb(62, 30, 180);
+}
+
+
+ul{
+
+	
+	margin: 0px;
+	padding :0px;
+	list-style: none;
+	text-decoration: none;
+}
+
+ul li{
+
+	    height: 40px;
+	    width: 200px;
+	    float: left;
+	    background-color: darkblue;
+	    opacity: .8;
+	    line-height: 40px;
+	    font-size: 20px;
+	    text-align: center;
+	   margin-right: 10px;
+	   text-decoration: none;
+          align-content: center;
+          
+
+
+}
+ul li a {
+	text-decoration:  none;
+	display: block;
+	color: rgb(122, 181, 196);
+
+
+}
+
+
+
+ul li:hover  {
+	background-color: rgb(5, 40, 136);
+}
+
+ul li ul li {
+	  display:  none;
+}
+
+
+ul li:hover ul li 
+{
+	display:  block;
+}
+
+ #container{
+ 	width: 800px;
+ 	overflow: hidden;
+ }
+.porfolio{
+      background-color:blue;
+
+}
