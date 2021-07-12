@@ -8,14 +8,6 @@ body{
 ul{
 
 	
-	margin: 0px;
-	padding :0px;
-	list-style: none;
-	text-decoration: none;
-}
-
-ul li{
-
 	    height: 40px;
 	    width: 200px;
 	    float: left;
